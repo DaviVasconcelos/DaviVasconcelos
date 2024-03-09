@@ -3,7 +3,7 @@
 <h3> 👌 Sobre mim </h3>
 
 - 💻 Atualmente estudando Sistemas e Mídias Digitais na UFC
-- 💬 Desenvolvedor Front-End com foco em desenvolvimento mobile
+- 💬 Programador com foco em desenvolvimento mobile
 - 📫 Meu e-mail: pd350854@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Gosto de: Música, filmes e jogos 🎮
