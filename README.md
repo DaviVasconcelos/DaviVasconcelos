@@ -6,7 +6,7 @@
 - 💬 Programador com foco atualmente em programação para jogos com Unity
 - 📫 Meu e-mail: pd350854@gmail.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Gosto de: Música, filmes e jogos 🎮
+- ⚡ Gosto de: Música, filmes e principalmente jogos 🎮
 
 ![](https://media.tenor.com/-izxlsWF6H0AAAAd/tech-support-whatsapp-dev-team.gif)
 
