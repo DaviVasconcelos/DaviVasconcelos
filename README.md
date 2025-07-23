@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Davi Vasconcelos!
 
-<h3> 👌 Sobre mim</h3>
+<h3> 👌 Sobre mim 👌</h3>
 
 - 💻 Atualmente estudando Sistemas e Mídias Digitais na UFC
 - 💬 Programador com foco atualmente em programação para jogos com Unity
